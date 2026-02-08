@@ -1,11 +1,30 @@
 /* Título principal */
 h1 {
-    color: #c7a4ff; /* morado claro */
+    color: #000000; /* morado claro */
     font-weight: bold;
 }
 
 /* Nombres de los platillos */
 .card-title,
 h2 {
-    color: #9be3a1; /* verde claro */
+    color: #000000; /* verde claro */
 }
+
+/* Fondo morado claro personalizado */
+.bg-morado {
+    background-color: #9238f3 !important; /* morado claro */
+}
+
+/* Botón "Ver Receta" en verde claro */
+.btn-danger {
+    background-color: #31f041 !important; /* verde claro */
+    border-color: #039e10 !important;
+    color: #ffffff !important;
+}
+
+/* Efecto hover (cuando pasas el mouse) */
+.btn-danger:hover {
+    background-color: #7fd18b !important; /* verde un poco más fuerte */
+    border-color: #7fd18b !important;
+}
+
