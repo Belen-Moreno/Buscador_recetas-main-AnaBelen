@@ -1,0 +1,11 @@
+/* Título principal */
+h1 {
+    color: #c7a4ff; /* morado claro */
+    font-weight: bold;
+}
+
+/* Nombres de los platillos */
+.card-title,
+h2 {
+    color: #9be3a1; /* verde claro */
+}
